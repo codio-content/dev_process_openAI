@@ -1,0 +1,20 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "box.txt"
+		}
+	],
+	"id": "b4387605-7b23-02e7-b24b-bae108a881e6",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Question Answering",
+	"type": "page"
+}

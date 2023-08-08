@@ -1,0 +1,25 @@
+Respond with /// when it does not know how to generate an answer. Start by giving a question and answer the model would know. Then give it a question it cannot know. Type A: /// to show the model how to respond. 
+Q: What is the capital of France?
+
+A: Paris
+
+Q: What is the capital of Germany?
+
+A: Berlin
+Q: what is my np'kmdpfd?
+
+A: ///
+Q: What is lp,rptmsaed?
+A: ///
+Q: What color is the sun?
+A: Yellow
+Q: What is the capital of a;lkdfjaopwiht?
+A: ///
+Q: Is 2 an even number?
+
+A: No
+Q: What is lp,rptmsaed?
+
+A: ///
+Q: What is lp,rptmsaed?
+A: ///

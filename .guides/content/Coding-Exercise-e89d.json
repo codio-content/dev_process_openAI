@@ -1,0 +1,20 @@
+{
+	"chapter": false,
+	"closeTerminalSession": true,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "box2.txt"
+		}
+	],
+	"id": "e89d872d-b3da-337a-9ae9-c9aa4d8956a3",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Coding Exercise",
+	"type": "page"
+}
